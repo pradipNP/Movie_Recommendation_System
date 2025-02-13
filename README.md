@@ -56,8 +56,8 @@ streamlit run app.py
 
 ## Screenshots
 ### **Homepage:**
-![Homepage](output_screenshots/homepage.png)
+![Homepage](![Image](https://github.com/user-attachments/assets/ad40339c-d90b-44dd-b88c-b054149d03d9))
 
 ### **Recommendations Page:**
-![Recommendations](output_screenshots/recommendations.png)
+![Recommendations](![Image](https://github.com/user-attachments/assets/0ba64a15-e5e6-4fd4-a68d-29e101b1b4a9))
 
